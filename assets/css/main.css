@@ -1357,6 +1357,22 @@ ul.social li a.fa-google-plus:hover {
     background: #ea3723;
 }
 
+ul.social li a.fa-instagram {
+    background: #f11b65;
+}
+
+ul.social li a.fa-instagram:hover {
+    background: #f53c7c;
+}
+
+ul.social li a.fa-envelope-o {
+    background: #008000;
+}
+
+ul.social li a.fa-envelope-o:hover {
+    background: #369836;
+}
+
 ol.default {
     list-style: decimal;
     padding-left: 1.25em;
